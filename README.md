@@ -1,5 +1,5 @@
 # FLAG_shapelets
-The results in Table 2 and 3 for paper [EfficientLearning of Timeseries Shapelets](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12382/11724) can be reproduced by running FLAG.m. Several instructions are:
+The results in Table 2 and 3 for paper [Efficient Learning of Timeseries Shapelets](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12382/11724) can be reproduced by running FLAG.m. Several instructions are:
  
 1. One needs to download the data sets from UCR and UEA repository himself and save them to the folder named data. The link to these two data bases are:
 [UCR](http://www.cs.ucr.edu/~eamonn/time_series_data/), 
